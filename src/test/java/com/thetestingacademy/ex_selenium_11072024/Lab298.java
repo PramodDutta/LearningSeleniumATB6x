@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_selenium;
+package com.thetestingacademy.ex_selenium_11072024;
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;

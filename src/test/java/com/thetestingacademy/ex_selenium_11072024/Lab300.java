@@ -1,10 +1,4 @@
-package com.thetestingacademy.ex_selenium;
-
-import org.openqa.selenium.SearchContext;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
+package com.thetestingacademy.ex_selenium_11072024;
 
 public class Lab300 {
     public static void main(String[] args) {
